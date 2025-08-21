@@ -5,7 +5,7 @@
 int pisat;
 
 void vladis() {
-    std::cout << "Введите 1337 чтобы выйти" << std::endl;
+    std::cout << "Блокнот" << std::endl;
 
     while(pisat < 10000000){
         std::cin >> pisat;
